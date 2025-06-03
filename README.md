@@ -1,2 +1,2 @@
 # desenvolvimentoweb2
-sistema de cadastro de alunos
+sistema de Registro de ocorrências - Delegacia
